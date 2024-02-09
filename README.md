@@ -1,0 +1,16 @@
+## 
+- Manufacturer: Samsung
+- Platform: holi
+- Codename: a23xq
+- Brand: Samsung
+- Flavor: a23xq
+- Release Version: 14
+- Kernel Version: 5.4.233
+- Id: UP1A.231005.007
+- Incremental: A236BXXS4DXA2
+- Tags: release-keys
+- CPU Abilist: 
+- A/B Device: false
+- Treble Device: false
+- Branch: a23xqnsxx-user 14 UP1A.231005.007 A236BXXS4DXA2 release-keys
+- Repo: Samung_a23xq_dump
